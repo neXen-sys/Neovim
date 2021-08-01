@@ -7,7 +7,7 @@
     syntax on      "Что бы работал синтаксис для языков
     set termguicolors
     set t_ut=
-    colorscheme candle-grey-transparent  "что бы становтиь тему
+    colorscheme neXen  "что бы становтиь тему
 "    colorscheme xshado
     set listchars=space:_
 
