@@ -5,7 +5,6 @@ call plug#begin('~/.config/nvim/plugged')
     Plug 'tpope/vim-fugitive'
     Plug 'honza/vim-snippets'
     Plug 'aditya-azad/candle-grey'
-    Plug 'Shadorain/shadotheme'
     Plug 'neoclide/coc.nvim', {'branch': 'release'}
 call plug#end()   
 "}}}
